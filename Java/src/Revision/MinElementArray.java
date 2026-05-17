@@ -1,0 +1,25 @@
+package Revision;
+
+import java.util.Arrays;
+
+public class MinElementArray {
+    public static void main(String[] args) {
+        int[] arr = {12, 5, 34, 23, 43, 21,2};
+
+        System.out.println(min(arr));
+
+    }
+
+    static int min(int[] arr){
+        int min = arr[0];
+        for (int i = 0; i < arr.length; i++) {
+            if(arr[i] < min){
+                min = arr[i];
+            }
+        }
+        return min;
+    }
+
+
+}
+
