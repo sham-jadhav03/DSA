@@ -1,4 +1,4 @@
-package com.SQuestions;
+package leetcode;
 
 public class FirstToLastPosition {
     public static void main(String[] args) {

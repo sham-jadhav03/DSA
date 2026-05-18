@@ -4,6 +4,12 @@ import java.util.ArrayList;
 import java.util.List;
 
 class FindDisappearedNumbers {
+    public static void main(String[] args) {
+        int[] arr = {4,3,2,7,8,2,3,1};
+        FindDisappearedNumbers fd = new FindDisappearedNumbers();
+//        fd.findDisappearedNumbers(arr);
+        System.out.println(fd.findDisappearedNumbers(arr));
+    }
     public List<Integer> findDisappearedNumbers(int[] arr) {
         int i = 0;
         while(i < arr.length){

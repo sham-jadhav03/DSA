@@ -1,4 +1,4 @@
-package com.SQuestions;
+package leetcode;
 
 public class SearchInMountain {
     public static void main(String[] args) {
