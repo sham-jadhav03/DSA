@@ -1,4 +1,4 @@
-package com.SQuestions;
+package com.Searching;
 
 import java.util.Arrays;
 

@@ -1,6 +1,4 @@
-package com.SQuestions;
-
-import java.io.OptionalDataException;
+package com.Searching;
 
 public class RBS {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.SQuestions;
+package com.Searching;
 
 public class OrderAgnosticBS {
     public static void main(String[] args) {
