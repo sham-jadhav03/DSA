@@ -3,7 +3,7 @@ package com.ArraysQ;
 public class Max {
     public static void main(String[] args) {
         int[] arr = {1, 3, 43, 9, 18};
-        System.out.println(max(arr));
+//        System.out.println(max(arr));
         System.out.println(maxRange(arr, 1, 3));
     }
 

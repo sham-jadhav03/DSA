@@ -3,7 +3,7 @@ package com.ArraysQ;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class MultiAl {
+public class MultiArray {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         ArrayList<ArrayList<Integer>> list = new ArrayList<>();
