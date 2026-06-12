@@ -1,4 +1,4 @@
-package Revision;
+package Revision.Repeats;
 
 import java.util.Scanner;
 

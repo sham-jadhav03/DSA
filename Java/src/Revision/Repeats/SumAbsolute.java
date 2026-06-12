@@ -1,4 +1,4 @@
-package Revision;
+package Revision.Repeats;
 
 public class SumAbsolute {
     public static void main(String[] args) {

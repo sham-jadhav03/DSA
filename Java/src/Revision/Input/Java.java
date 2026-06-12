@@ -1,8 +1,8 @@
-package Revision;
+package Revision.Input;
 
 import java.util.Scanner;
 
-public class p1 {
+public class Java {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
@@ -11,17 +11,10 @@ public class p1 {
         for (int i = 0; i < n; i++) {
             arr[i] = sc.nextInt();
         }
-        System.out.println("max no. is:" +max1(arr));
-    }
 
-    static int max1 (int[] arr){
-        int max = Integer.MIN_VALUE;
+        // print arr
         for (int i = 0; i < arr.length; i++) {
-//            if(arr[i]> max) {
-//                max = arr[i];
-//            }
-            max = Math.max(max, arr[i]);
+            System.out.print(arr[i] +" ");
         }
-        return  max;
     }
 }

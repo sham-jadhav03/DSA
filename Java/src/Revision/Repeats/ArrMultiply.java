@@ -1,6 +1,4 @@
-package Revision;
-
-import java.io.Serializable;
+package Revision.Repeats;
 
 public class ArrMultiply {
     public static void main(String[] args) {

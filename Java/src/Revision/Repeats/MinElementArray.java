@@ -1,6 +1,4 @@
-package Revision;
-
-import java.util.Arrays;
+package Revision.Repeats;
 
 public class MinElementArray {
     public static void main(String[] args) {

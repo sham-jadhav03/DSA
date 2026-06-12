@@ -1,4 +1,4 @@
-package Revision;
+package Revision.Repeats;
 
 public class MaxMinElementArray {
     public static void main(String[] args) {
