@@ -33,7 +33,7 @@ public class ArmstrongProblem {
 //            arr.add(x);
 //
 //            k = k / 10;
-////            size++;
+////
 //
 //        }
 //        for (int i = 0; i < arr.toArray().length; i++) {
