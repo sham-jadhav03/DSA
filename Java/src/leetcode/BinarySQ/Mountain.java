@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.BinarySQ;
 
 public class Mountain {
     public static void main(String[] args) {
