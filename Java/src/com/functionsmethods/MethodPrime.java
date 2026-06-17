@@ -5,14 +5,14 @@ import java.util.Scanner;
 public class MethodPrime {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-//        int n = in.nextInt();
-//        System.out.println(isPrime(n));
+        int n = in.nextInt();
+        System.out.println(isPrime(n));
 
-        for (int i=2; i<10; i++){
-            if (isPrime(i)){
-                System.out.print(i + " ");
-            }
-        }
+//        for (int i=2; i<10; i++){
+//            if (isPrime(i)){
+//                System.out.print(i + " ");
+//            }
+//        }
 
     }
 

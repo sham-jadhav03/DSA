@@ -1,4 +1,4 @@
-package Revision.Sheet;
+package Revision.Sheet.BasicMath;
 
 import java.util.Scanner;
 
