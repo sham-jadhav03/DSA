@@ -1,4 +1,4 @@
-package Revision;
+package Revision.Sheet;
 
 public class ReverseLetters {
     public static void main(String[] args) {
